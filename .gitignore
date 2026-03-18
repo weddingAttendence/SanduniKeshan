@@ -27,5 +27,4 @@ build/
 out/
 
 # Dependencies
-package-lock.json
 yarn.lock
